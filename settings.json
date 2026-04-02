@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mscostern3.aternos.me",
+    "ip": "gnat.aternos.host:32947",
     "port": 32947,
     "version": "",
     "try-creative": false
