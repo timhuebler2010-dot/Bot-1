@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Charlie_Kirk_Killer",
+    "username": "C_K_K",
     "password": "",
     "type": "offline"
   },
@@ -31,7 +31,8 @@
       "repeat": true,
       "repeat-delay": 670,
       "messages": [
-        "200er Halsshot"
+        "200er Halsshot",
+        "Mein Name C_K_K steht für Charlie_Kirk_Killer!"
       ]
     },
     "chat-log": true,
