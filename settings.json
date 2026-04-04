@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "rheimTx",
+    "username": "SS_Mann",
     "password": "",
     "type": "offline"
   },
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 450,
+    "y": 69,
+    "z": 216
   },
   "utils": {
     "auto-auth": {
